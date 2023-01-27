@@ -1,0 +1,10 @@
+.formStyle {
+ margin: 2rem;
+ 
+}
+
+.success{
+    padding-left: 6rem;
+    padding-top: 2rem;
+    color: yellowgreen;
+}
